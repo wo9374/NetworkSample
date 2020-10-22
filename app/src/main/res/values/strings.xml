@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NetworkSample</string>
+    <string name="okhttp">OkHttp3</string>
+    <string name="retroit">Retrofit</string>
+    <string name="volley">Volley</string>
+    <string name="async">Android Async Http</string>
+    <string name="fast_android">Fast Android Networking</string>
+</resources>
