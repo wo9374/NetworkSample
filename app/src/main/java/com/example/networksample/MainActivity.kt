@@ -28,6 +28,6 @@ class MainActivity : AppCompatActivity() {
 
         bt_fast_android_networking.setOnClickListener {
             startActivity(Intent(this, FastAndroidNetworkingExample::class.java))
-        }//ㅇ
+        }
     }
 }
